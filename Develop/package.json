@@ -1,14 +1,25 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "readme generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "napo-100",
+  "license": "MIT",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Napo-100/readme-generator.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "bugs": {
+    "url": "https://github.com/Napo-100/readme-generator/issues"
+  },
+  "homepage": "https://github.com/Napo-100/readme-generator#readme"
 }
