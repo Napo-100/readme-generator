@@ -1,9 +1,9 @@
 
-   # the last test
+   # Readme Generator
    
    
    ## Description 
-   this time I awant to make sure everythign works. If it doesn't that's okay but Iw atn it to. typos don't matter. Just working matters. tell me yoru secrets and I will build you a home.
+   Created with NodeJS with inquirer. Runs in terminal to guide user through creating a quality readme file for any project.
 
    ## Table of Contents
   * [Installation](#installation)
@@ -18,25 +18,20 @@
       
    
    ## Installation
-      clone repo and run node index from develop 
+      Clone the repository.
 
    ## Usage 
-  just answer the questions dummy
+  Run 'node index' in the terminal from the Develop folder.
 
    ## Credits  
-  inquirer NPM
-
-  
+  inquirer NPM 
    
    ## License
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-   
-   
-   ## Badges
-      
+         
    
    ## Contributing
-  send money jk email me
+  No contributions at this time.
       
    ## Tests
   none
