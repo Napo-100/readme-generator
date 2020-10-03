@@ -4,15 +4,8 @@ const generatePage = require('./utils/generateMarkdown.js')
 
 
 // array of questions for user
-const promptQuestions = projectData => {
-    if (!projectData) {
-        projectData = [];
-      }
-    console.log(`
-    ===================
-      Create a Readme
-    ===================
-    `);
+const promptQuestions = () => {
+    
     return inquirer.prompt([
         {
             type: 'input',
@@ -43,7 +36,7 @@ const promptQuestions = projectData => {
         {
             type: 'input',
             name: 'installation',
-            message: 'Provide instructions for installation'
+            message: 'Add instructions for installation'
         },
         {
             type: 'input',
@@ -53,42 +46,65 @@ const promptQuestions = projectData => {
         {
             type: 'input',
             name: 'credits',
-            message: 'list collaborators, third party assets, etc.'
+            message: 'List any third party assets, etc.'
         },
         {
             type: 'input',
+            name: 'test',
+            message: 'Add instructions for testing'
+        },
+        {
+            type: 'input',
+            name: 'contribute',
+            message:'If there were any collaborators for this project add their names and  GitHub profile links',
+          },
+        {
+            type: 'input',
+            name: 'gitName',
+            message: 'Enter your Github username'
+        },
+        {
+            type: 'input',
+            name: 'gitLink',
+            message: 'Add the link to your Github profile'
+        },
+        {
+            type: 'input',
+            name: 'email',
+            message: 'Enter your email address'
+        },
+        {
+            type: 'checkbox',
             name: 'license',
-            message: 'add a license',
+            message: 'Select a license from the list below',
+            choices: ['MIT', 'Apache 2.0', 'ISC', 'Mozilla Public license', 'IBM Public license', 'Artistic license 2.0'],
+            
         }
-    ])
-    .then(readmeData => {
-        projectData.push(readmeData);
-        console.log(readmeData);
-        console.log(projectData)
-        return projectData;
-    });
+    ]);  
 }
+
 
 
 promptQuestions()
     .then(projectData => {
         const pageMD = generatePage(projectData);
+       // console.log(pageMD)
+        writeToFile('readme.md', pageMD);
 
-        fs.writeFile('./readme.md', pageMD, err => {
-            if (err) throw new Error(err);
-
-            console.log('check out the readme')
-        });
+        
     });
 
 // function to write README file
-// function writeToFile(fileName, data) {
-// }
+   function writeToFile(fileName, data) {
+    fs.writeFile(fileName, data, err => {
+        if (err) throw new Error(err);
+
+        console.log('Readme complete! Please see readme.md')
+    });
+ }
 
 // // function to initialize program
-// function init() {
+ function init() {}
 
-// }
-
-// // function call to initialize program
-// init();
+// function call to initialize program
+ init();
