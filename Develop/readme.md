@@ -1,9 +1,9 @@
 
-   # project
-   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   # the last test
+   
    
    ## Description 
-   just do it
+   this time I awant to make sure everythign works. If it doesn't that's okay but Iw atn it to. typos don't matter. Just working matters. tell me yoru secrets and I will build you a home.
 
    ## Table of Contents
   * [Installation](#installation)
@@ -18,38 +18,31 @@
       
    
    ## Installation
-      
+      clone repo and run node index from develop 
 
    ## Usage 
-  
+  just answer the questions dummy
 
    ## Credits  
-  
+  inquirer NPM
 
-   ## Contributors
   
    
    ## License
-  MIT
+   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
    
-   
-   ---
-   
-   🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
    
    ## Badges
-   
-   ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-   
-   Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-   
+      
    
    ## Contributing
-   
-   If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
-   
+  send money jk email me
+      
    ## Tests
+  none
    
-   Go the extra mile and write tests for your application. Then provide examples on how to run them.
+   ## Contact
+  github.com/napo-100
+  michaeljnapolitano@gmail.com
    
  

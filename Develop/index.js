@@ -56,17 +56,12 @@ const promptQuestions = () => {
         {
             type: 'input',
             name: 'contributing',
-            message:'Add guidlines to tell people how to contribute to this project',
+            message:'Add guidlines to tell people how to contribute to this project'
           },
         {
             type: 'input',
             name: 'gitName',
             message: 'Enter your Github username'
-        },
-        {
-            type: 'input',
-            name: 'gitLink',
-            message: 'Add the link to your Github profile'
         },
         {
             type: 'input',
@@ -77,8 +72,8 @@ const promptQuestions = () => {
             type: 'list',
             name: 'license',
             message: 'Select a license from the list below',
-            choices: ['MIT', 'Apache 2.0', 'ISC', 'Mozilla Public license', 'IBM Public license', 'Artistic license 2.0'],
-        }
+            choices: ['MIT', 'Apache 2.0', 'ISC', 'Mozilla Public license', 'IBM Public license', 'Artistic license 2.0']
+        } 
     ]);  
 }
 
