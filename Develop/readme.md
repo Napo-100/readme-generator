@@ -1,28 +1,36 @@
 
-   ### License
-   MIT
-
    # project
+   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
    
    ## Description 
-  this is a test for important things
+   just do it
 
    ## Table of Contents
-     undefined
-     undefined
-     undefined
-     undefined
-   
-   
+  * [Installation](#installation)
+    
+  * [Usage](#usage)
+
+  * [Testing](#test)
+
+  * [Credits](#credits)
+
+  * [Licenses](#license)
+      
    
    ## Installation
       
+
    ## Usage 
-      
+  
+
    ## Credits  
+  
+
+   ## Contributors
+  
    
    ## License
-   
+  MIT
    
    
    ---

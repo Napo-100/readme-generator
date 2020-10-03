@@ -55,8 +55,8 @@ const promptQuestions = () => {
         },
         {
             type: 'input',
-            name: 'contribute',
-            message:'If there were any collaborators for this project add their names and  GitHub profile links',
+            name: 'contributing',
+            message:'Add guidlines to tell people how to contribute to this project',
           },
         {
             type: 'input',
@@ -74,15 +74,13 @@ const promptQuestions = () => {
             message: 'Enter your email address'
         },
         {
-            type: 'checkbox',
+            type: 'list',
             name: 'license',
             message: 'Select a license from the list below',
             choices: ['MIT', 'Apache 2.0', 'ISC', 'Mozilla Public license', 'IBM Public license', 'Artistic license 2.0'],
-            
         }
     ]);  
 }
-
 
 
 promptQuestions()
@@ -96,6 +94,7 @@ promptQuestions()
 
 // function to write README file
    function writeToFile(fileName, data) {
+
     fs.writeFile(fileName, data, err => {
         if (err) throw new Error(err);
 
@@ -108,3 +107,4 @@ promptQuestions()
 
 // function call to initialize program
  init();
+
