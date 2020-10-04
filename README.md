@@ -40,7 +40,8 @@
   #### <a href="https://www.github.com/napo-100">GitHub</a>
   #### Michaeljnapolitano@gmail.com
 
-  ### Video Demo
-  <iframe src="https://drive.google.com/file/d/1a8p0EoZoD7dRCpc93tKhqqM59XRIroWH/preview" width="640" height="480"></iframe>
+  
+
+### <a href="https://drive.google.com/file/d/1a8p0EoZoD7dRCpc93tKhqqM59XRIroWH/view">Video Demo</a>
    
  
