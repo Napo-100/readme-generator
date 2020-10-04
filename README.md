@@ -15,6 +15,8 @@
   * [Licenses](#license)
 
   * [Testing](#test)
+
+  * [Contact](#contact)
       
    
    ## Installation

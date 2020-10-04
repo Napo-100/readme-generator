@@ -42,6 +42,8 @@ function generateMarkdown(data) {
   * [Licenses](#license)
 
   * [Testing](#test)
+
+  * [Questions](#questions)
       
    
    ## Installation
@@ -63,7 +65,7 @@ function generateMarkdown(data) {
    ## Testing
   ${data.test}
    
-   ## Contact
+   ## Questions
   #### <a href="https://www.github.com/${data.gitName}">GitHub</a>
   #### ${data.email}
    

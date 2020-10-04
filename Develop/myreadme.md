@@ -1,9 +1,9 @@
 
-   # test
+   # homework
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
    
    ## Description 
-   rtest
+   this is week 9 hochallenge
 
    ## Table of Contents
   * [Installation](#installation)
@@ -15,29 +15,31 @@
   * [Licenses](#license)
 
   * [Testing](#test)
+
+  * [Questions](#questions)
       
    
    ## Installation
-      
+      clone repo
 
    ## Usage 
-  
+  run in terminal
 
    ## Credits  
-   
+  inquirer NPM 
    
    ## License
    This application is covered under the MIT license
          
    
    ## Contributing
-  
+  email me
       
    ## Testing
-  
+  none
    
-   ## Contact
-  #### <a href="https://www.github.com/">GitHub</a>
-  #### 
+   ## Questions
+  #### <a href="https://www.github.com/napo-100">GitHub</a>
+  #### michaeljnapolitano@gmail.com
    
  
