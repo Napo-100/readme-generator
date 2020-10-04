@@ -82,7 +82,7 @@ promptQuestions()
     .then(projectData => {
         const pageMD = generatePage(projectData);
        // console.log(pageMD)
-        writeToFile('readme.md', pageMD);
+        writeToFile('myreadme.md', pageMD);
 
         
     });
@@ -93,7 +93,7 @@ promptQuestions()
     fs.writeFile(fileName, data, err => {
         if (err) throw new Error(err);
 
-        console.log('Readme complete! Please see readme.md')
+        console.log('Readme complete! Please see myreadme.md')
     });
  }
 
