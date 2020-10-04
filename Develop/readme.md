@@ -1,9 +1,9 @@
 
-   # Readme Generator
+   # test
    
    
    ## Description 
-   Created with NodeJS with inquirer. Runs in terminal to guide user through creating a quality readme file for any project.
+   test
 
    ## Table of Contents
   * [Installation](#installation)
@@ -18,26 +18,26 @@
       
    
    ## Installation
-      Clone the repository.
+      none
 
    ## Usage 
-  Run 'node index' in the terminal from the Develop folder.
+  none
 
    ## Credits  
-  inquirer NPM 
+   
    
    ## License
-   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
          
    
    ## Contributing
-  No contributions at this time.
+  
       
    ## Tests
-  N/A
+  
    
    ## Contact
-  #### github.com/napo-100
+  #### <a href="https://www.github.com/napo-100">napo-100</a>
   #### michaeljnapolitano@gmail.com
    
  
