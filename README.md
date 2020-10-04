@@ -1,6 +1,6 @@
 
    # Readme Generator
-   
+   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
    
    ## Description 
    Created with NodeJs and inquirer. Runs in the terminal to guide user through creating a quality readme file for any project.
@@ -27,7 +27,7 @@
   Inquirer NPM 
    
    ## License
-   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   This application is covered under the MIT license
          
    
    ## Contributing

@@ -27,7 +27,7 @@ function generateMarkdown(data) {
  //console.log(data)
    return `
    # ${data.title}
-   
+   ${getBadge(data.license)}
    
    ## Description 
    ${data.description}
@@ -54,7 +54,7 @@ function generateMarkdown(data) {
   ${data.credits} 
    
    ## License
-   ${getBadge(data.license)}
+   This application is covered under the ${(data.license)} license
          
    
    ## Contributing

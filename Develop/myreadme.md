@@ -1,43 +1,43 @@
 
-   # Readme Generator
-   
+   # test
+   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
    
    ## Description 
-   Created with NodeJs and inquirer. Runs in the terminal to guide user through creating a quality readme file for any project.
+   rtest
 
    ## Table of Contents
   * [Installation](#installation)
     
   * [Usage](#usage)
 
-  * [Testing](#test)
-
   * [Credits](#credits)
 
   * [Licenses](#license)
+
+  * [Testing](#test)
       
    
    ## Installation
-      Clone the repository
+      
 
    ## Usage 
-  Run 'node index' in the terminal from the Develop folder.
+  
 
    ## Credits  
-  Inquirer NPM 
+   
    
    ## License
-   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   This application is covered under the MIT license
          
    
    ## Contributing
-  No contributions at this time.
+  
       
-   ## Tests
-  N/A
+   ## Testing
+  
    
    ## Contact
-  #### <a href="https://www.github.com/napo-100">GitHub</a>
-  #### Michaeljnapolitano@gmail.com
+  #### <a href="https://www.github.com/">GitHub</a>
+  #### 
    
  
