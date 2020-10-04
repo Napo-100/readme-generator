@@ -60,7 +60,7 @@ function generateMarkdown(data) {
    ## Contributing
   ${data.contributing}
       
-   ## Tests
+   ## Testing
   ${data.test}
    
    ## Contact

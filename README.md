@@ -33,7 +33,7 @@
    ## Contributing
   No contributions at this time.
       
-   ## Tests
+   ## Testing
   N/A
    
    ## Contact
