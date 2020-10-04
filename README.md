@@ -3,7 +3,7 @@
    
    
    ## Description 
-   Created with NodeJS with inquirer. Runs in terminal to guide user through creating a quality readme file for any project.
+   Created with NodeJs and inquirer. Runs in the terminal to guide user through creating a quality readme file for any project.
 
    ## Table of Contents
   * [Installation](#installation)
@@ -18,13 +18,13 @@
       
    
    ## Installation
-      Clone the repository.
+      Clone the repository
 
    ## Usage 
   Run 'node index' in the terminal from the Develop folder.
 
    ## Credits  
-  inquirer NPM 
+  Inquirer NPM 
    
    ## License
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -34,10 +34,10 @@
   No contributions at this time.
       
    ## Tests
-  none
+  N/A
    
    ## Contact
-  github.com/napo-100
-  michaeljnapolitano@gmail.com
+  #### <a href="https://www.github.com/napo-100">GitHub</a>
+  #### Michaeljnapolitano@gmail.com
    
  
