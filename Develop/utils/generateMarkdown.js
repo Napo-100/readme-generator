@@ -37,11 +37,11 @@ function generateMarkdown(data) {
     
   * [Usage](#usage)
 
-  * [Testing](#test)
-
   * [Credits](#credits)
 
   * [Licenses](#license)
+
+  * [Testing](#test)
       
    
    ## Installation
