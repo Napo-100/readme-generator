@@ -64,8 +64,8 @@ function generateMarkdown(data) {
   ${data.test}
    
    ## Contact
-  github.com/${data.gitName}
-  ${data.email}
+  #### github.com/${data.gitName}
+  #### ${data.email}
    
  `;
 }

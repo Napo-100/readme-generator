@@ -34,10 +34,10 @@
   No contributions at this time.
       
    ## Tests
-  none
+  N/A
    
    ## Contact
-  github.com/napo-100
-  michaeljnapolitano@gmail.com
+  #### github.com/napo-100
+  #### michaeljnapolitano@gmail.com
    
  
