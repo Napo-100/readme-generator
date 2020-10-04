@@ -10,11 +10,11 @@
     
   * [Usage](#usage)
 
-  * [Testing](#test)
-
   * [Credits](#credits)
 
   * [Licenses](#license)
+
+  * [Testing](#test)
       
    
    ## Installation
